@@ -1,46 +1,35 @@
-# QHSE & Engineering Professional | Practical Software Projects
+# STATUS NIHILI
 
-QHSE and engineering professional based in Scotland, UK, developing practical software tools to improve reporting, data management and everyday workflows.
+**Software · Systems · Hardware · Experiments**
 
-## About Me
-
-My professional background is in QHSE and engineering, with experience of the operational processes, records and information that support quality, safety and environmental management.
-
-Alongside my professional work, I am developing my software skills through self-directed projects focused on solving practical problems.
-
-My current projects explore desktop application development, structured data management, workflow design, reporting and user-focused tools using Python and related technologies.
+A personal workshop for practical software, Linux systems, home-lab infrastructure and hardware experiments.
 
 ## Selected Projects
 
-### QHSE Management System
+### TRACE
+**Technical Reporting, Audit & Compliance Environment**
 
-A cross-platform desktop application for managing QHSE records, corrective actions, audit history, supporting evidence and reporting.
+A desktop system for structured QHSE reporting, corrective actions, audit history, evidence management and document generation.
 
-The project applies practical QHSE knowledge to software development, with functionality including structured record workflows, corrective-action tracking, user roles, audit history, document generation and a consolidated QHSE dashboard.
+`Python` · `Tkinter` · `SQLite` · `python-docx` · `PyInstaller`
 
-**Technologies:** Python · Tkinter · SQLite · python-docx · PyInstaller
+### INFINITY
+**Integrated Finance Utility**
 
-> Repository currently being prepared for public portfolio release.
+A personal finance application focused on budgeting, financial records, calculations and practical day-to-day money management.
 
-### Personal Budget App
+`Python` · `Tkinter` · `SQLite`
 
-A personal finance application being developed to support everyday budgeting and financial management.
+### EREBUS
 
-The project provides a second development domain outside QHSE and is being used to explore data modelling, application workflows, calculations and user-interface design.
+A Linux From Scratch / Beyond Linux From Scratch system being built as a lightweight, understandable home-lab server platform.
 
-> Currently in development.
+`Linux From Scratch` · `BLFS` · `Linux` · `Shell`
 
-## Current Technical Focus
+### TENEBRAE
 
-- Python application development
-- Desktop user interfaces with Tkinter
-- SQLite and relational data management
-- Practical workflow and application design
-- Git and GitHub
-- Application packaging and cross-platform development
+The wider home-lab environment: systems, machines, networking, services and experiments built around EREBUS and related projects.
 
-## Portfolio
+---
 
-This GitHub profile documents my progress in applying software development to practical problems.
-
-The projects here are self-directed development projects rather than commercial software products, with an emphasis on building useful applications, improving their structure over time and documenting the development process clearly.
+`CLOTHO` · `LACHESIS` · `ATROPOS`
